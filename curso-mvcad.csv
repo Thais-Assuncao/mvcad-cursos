@@ -1,4 +1,4 @@
-nome,cpf,uf,turma,data_nascimento,email,endereco,período,modulo
+nome,cpf,uf,turma,data_nascimento,email,endereco,periodo,modulo
 Alana Ramos,287.153.964-28,Pará,2,1999-12-28,pteixeira@goncalves.com,"Recanto de da Paz, 2",matutino,introdução ao python
 Joana da Mata,742.958.301-60,São Paulo,3,1993-08-24,da-cunhaana-clara@uol.com.br,"Trecho Silveira, 812",matutino,introdução ao python
 Júlia Novaes,345.761.829-19,Paraná,2,1991-11-12,miguel15@pinto.com,"Vila de Oliveira, 779",noturno,git
